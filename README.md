@@ -1,3 +1,4 @@
 # checkpoint
 
 CLAUDIA HEREDIA
+JEAN FRANCO TINEO
