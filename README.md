@@ -1,4 +1,7 @@
+
 # checkpoint
 
 - CLAUDIA HEREDIA
 - JEAN FRANCO TINEO
+- NADIA SORIA
+
